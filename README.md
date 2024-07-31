@@ -1,0 +1,1 @@
+This is a personal respository where I code and make small tests while reading the Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow book.
